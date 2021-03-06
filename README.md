@@ -1,6 +1,6 @@
 Fell in ❤️ with crafting visual tools 🎬.
 Current ⚔️ of choice are [Svelte](https://svelte.dev), [Tailwind](https://tailwindcss.com) and [Typescript](https://www.typescriptlang.org).
-I'm blessed and cursed with too many ideas. *More then i can ever do alone...* So reach out if you find any of my stuff interesting!
+I'm blessed and cursed with too many ideas. *More then i can ever do alone... So reach out if you find any of my stuff interesting!*
 
 <a href="https://twitter.com/o_a_e"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 <a href="https://dev.to/o_a_e"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
